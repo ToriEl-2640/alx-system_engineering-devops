@@ -1,0 +1,2 @@
+#!/bin/bash \n
+chmod ugo+x ./11-directories_permissions
